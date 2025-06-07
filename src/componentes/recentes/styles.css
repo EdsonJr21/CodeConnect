@@ -1,0 +1,23 @@
+.recentes-container {
+  margin-top: 1.5em;
+  margin-bottom: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.recentes-titulo {
+  color: var(--verde-destaque);
+  font-size: 1em;
+  font-family: var(--fonte);
+  font-weight: 500;
+  margin-left: 0.5em;
+}
+
+.recentes-subtitulo {
+  color: var(--branco);
+  font-size: 1em;
+  font-family: var(--fonte);
+  font-weight: 500;
+  margin-left: 0.5em;
+}
